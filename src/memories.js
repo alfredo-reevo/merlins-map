@@ -67,7 +67,7 @@ export const memories = [
     id: 9,
     position: [48.85004157988824, 2.2996770558374653],
     title: "Pavillon",
-    date: "18 December, 2025",
+    date: "17 December, 2025",
     desc: "Where we had our first meal together in Paris",
     emoji: "🍔"
   },
