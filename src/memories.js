@@ -151,6 +151,14 @@ export const memories = [
     desc: "Where we had a drink after wandering through Montmartre",
     emoji: "🍺"
   },
+   {
+    id: 20,
+    position: [51.534414, -0.260504],
+    title: "Grand Junction Arms",
+    date: "1 May, 2026",
+    desc: "Where we sat by the canal basking in the evening sun, drinking your jello cider",
+    emoji: "🍺"
+  },
 ];
 
 
