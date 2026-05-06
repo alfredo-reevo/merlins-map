@@ -154,7 +154,7 @@ export const memories = [
    {
     id: 20,
     position: [51.534414, -0.260504],
-    title: "Grand Junction Arms",
+    title: "Grand Junction Arms - Acton Lane",
     date: "1 May, 2026",
     desc: "Where we sat by the canal basking in the evening sun, drinking your jello cider",
     emoji: "🍺"
